@@ -6,7 +6,7 @@ if(isset($_SESSION['examineeSession']['examineenakalogin']) == true) header("loc
 
 <?php 
 
-include("login-ui/index.php");
+include("login/login-ui/index.php");
 
 
  ?>
